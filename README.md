@@ -23,6 +23,7 @@ This project implements a basic click counter that increments, decrements, or re
 
 1. Clone the repository.
 2. Open `index.html` in your web browser.
+3. Visited deployed version ir [Vercel](https://click-counter-indol.vercel.app)
 
 ## Structure
 
